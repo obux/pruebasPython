@@ -2,9 +2,9 @@
 class ModeloDePresupuesto:
     # Datos comerciales 
     titulo = "PRESUPUESTO"
-    encabezado_nombre = "Eugenia Bahit"
-    encabezado_web = "www.eugeniabahit.com.ar"
-    encabezado_email = "mail@mail.com"
+    encabezado_nombre = "Obux"
+    encabezado_web = "http://blog.obux.cl"
+    encabezado_email = "obux@obux.cl"
 
     # Datos impositivos 
     alicuota_iva = 21
